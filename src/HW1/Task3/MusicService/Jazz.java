@@ -1,6 +1,6 @@
-package Task3.MusicService;
+package HW1.Task3.MusicService;
 
-import Task3.MusicMain;
+import HW1.Task3.MusicMain;
 
 public class Jazz extends Thread {
     final MusicMain musicMain;
