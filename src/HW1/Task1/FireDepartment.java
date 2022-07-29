@@ -1,4 +1,4 @@
-package HW1.Task1;
+package Task1;
 
 import java.util.ArrayList;
 import java.util.List;
