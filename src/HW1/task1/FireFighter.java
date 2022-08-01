@@ -1,4 +1,4 @@
-package HW1.Task1;
+package HW1.task1;
 
 public class FireFighter extends Thread {
 
