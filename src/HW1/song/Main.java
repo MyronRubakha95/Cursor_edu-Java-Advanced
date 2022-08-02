@@ -1,5 +1,5 @@
-package HW1.task3;
-import HW1.task3.MusicService.*;
+package HW1.song;
+import HW1.song.MusicService.*;
 import java.util.concurrent.TimeUnit;
 
 public class Main {

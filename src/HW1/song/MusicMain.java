@@ -1,4 +1,4 @@
-package HW1.task3;
+package HW1.song;
 
 import java.util.LinkedList;
 import java.util.List;

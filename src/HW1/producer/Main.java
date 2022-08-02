@@ -1,4 +1,4 @@
-package HW1.task2;
+package HW1.producer;
 
 import java.util.LinkedList;
 import java.util.List;
