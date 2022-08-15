@@ -1,6 +1,6 @@
-package HW1.Task3.MusicService;
+package HW1.song.MusicService;
 
-import HW1.Task3.MusicMain;
+import HW1.song.MusicMain;
 
 
 public class Pop extends Thread {

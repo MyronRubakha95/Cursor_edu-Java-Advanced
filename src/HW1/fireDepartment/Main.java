@@ -1,4 +1,4 @@
-package HW1.Task1;
+package HW1.fireDepartment;
 
 import java.util.concurrent.TimeUnit;
 

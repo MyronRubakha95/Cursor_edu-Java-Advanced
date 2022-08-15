@@ -1,4 +1,4 @@
-package HW1.Task1;
+package HW1.fireDepartment;
 
 
 public class Victim {
