@@ -24,4 +24,3 @@ public class FireFighter extends Thread {
         }
     }
 }
-

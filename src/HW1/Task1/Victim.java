@@ -15,11 +15,3 @@ public class Victim {
         }
     }
 }
-
-
-
-
-
-
-
-

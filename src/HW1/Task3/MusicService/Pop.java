@@ -8,7 +8,6 @@ public class Pop extends Thread {
     final MusicMain musicMain;
 
     public Pop(MusicMain musicMain) {
-
         this.musicMain = musicMain;
     }
 
@@ -21,8 +20,3 @@ public class Pop extends Thread {
         System.out.println("Pop : " + musicMain.getList());
     }
 }
-
-
-
-
-
